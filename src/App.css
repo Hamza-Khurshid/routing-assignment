@@ -20,3 +20,13 @@
   color: white;
   padding: 20px;
 }
+
+.div1 {
+  float: left;
+  width: 20%;
+}
+
+.div2 {
+  float: right;
+  width: 80%;
+}
